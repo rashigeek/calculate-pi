@@ -1,2 +1,8 @@
-# calculate-pi
-This repository contains a Jupyter Notebook and python scripts to calculate pi to up to 100 digits in three different ways. One of which uses serial execution and the other two run in parallel
+# Pi Calculation with BBP Formula
+
+This repository contains a project that uses the [Bailey–Borwein–Plouffe (BBP) formula](https://en.wikipedia.org/wiki/Bailey%E2%80%93Borwein%E2%80%93Plouffe_formula) to calculate π (pi) to 100 decimal places. 
+
+## Overview
+
+The BBP formula is as follows:
+
